@@ -2,12 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d1916c0f-481f-48e9-99a4-362cb4995ffa" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../Bankomat/src/Konto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/egzaminNr1KamilWieczorek.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../pojazdyZadanieZdziedziczenia/pojazdyZadanieZdziedziczenia.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../repository/repository.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../wejsciowka1.KamilWieczorek/wejsciowka1.KamilWieczorek.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../wejsciowka2_HomeBuilderFactoryDecorator/wejsciowka2_HomeBuilderFactoryDecorator.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Projekt2010-master/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Projekt2010-master/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Projekt2010-master/dostawcy.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Projekt2010-master/dostawcy.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Projekt2010-master/magazynp.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Projekt2010-master/magazynp.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Projekt2010-master/magazynw.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Projekt2010-master/magazynw.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Projekt2010-master/slownik.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Projekt2010-master/slownik.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Projekt2010-master/src/projekt2010/Dostawca.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Projekt2010-master/src/projekt2010/MagazynP.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Projekt2010-master/src/projekt2010/MagazynW.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Projekt2010-master/src/projekt2010/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Projekt2010-master/src/projekt2010/Pliki.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Projekt2010-master/src/projekt2010/Slownik.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../repository/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../repository/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -21,10 +28,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Kamil_Wieczorek/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1275">
+            <state relative-caret-position="442">
               <caret line="77" selection-start-line="77" selection-end-line="77" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -63,8 +70,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Kamil_Wieczorek/RejestrPracownikow.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="9" column="31" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="31" />
+            <state relative-caret-position="68">
+              <caret line="4" column="22" lean-forward="true" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -72,7 +79,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Kamil_Wieczorek/Skutecznosc.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="34">
@@ -93,7 +100,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Kamil_Wieczorek/PracownikFactory.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
+            <state relative-caret-position="85">
               <caret line="7" selection-start-line="7" selection-end-line="7" />
               <folding>
                 <element signature="e#132#133#0" expanded="true" />
@@ -182,7 +189,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -205,7 +212,7 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -258,7 +265,7 @@
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4942717" visible="true" weight="0.1323752" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4942717" visible="true" weight="0.22163388" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -305,44 +312,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Kamil_Wieczorek/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1275">
-          <caret line="77" selection-start-line="77" selection-end-line="77" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Kamil_Wieczorek/Pracownik.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Kamil_Wieczorek/PracownikFizycznyFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="25" selection-start-line="25" selection-end-line="25" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Kamil_Wieczorek/Adres.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
           <caret line="10" column="11" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Kamil_Wieczorek/RejestrPracownikow.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="9" column="31" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="31" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -353,20 +326,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Kamil_Wieczorek/PracownikFizyczny.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="9" column="107" selection-start-line="9" selection-start-column="101" selection-end-line="9" selection-end-column="107" />
-          <folding>
-            <element signature="e#129#130#0" expanded="true" />
-            <element signature="e#156#157#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Kamil_Wieczorek/PracownikFactory.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
+        <state relative-caret-position="85">
           <caret line="7" selection-start-line="7" selection-end-line="7" />
           <folding>
             <element signature="e#132#133#0" expanded="true" />
@@ -398,6 +360,51 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" selection-start-line="2" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Kamil_Wieczorek/PracownikFizycznyFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Kamil_Wieczorek/PracownikFizyczny.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="9" column="107" selection-start-line="9" selection-start-column="101" selection-end-line="9" selection-end-column="107" />
+          <folding>
+            <element signature="e#129#130#0" expanded="true" />
+            <element signature="e#156#157#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Kamil_Wieczorek/RejestrPracownikow.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="22" lean-forward="true" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Kamil_Wieczorek/Pracownik.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Kamil_Wieczorek/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="77" selection-start-line="77" selection-end-line="77" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

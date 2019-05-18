@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e9b50632-44c2-4f8e-991b-e01fa1bc1185" name="Default Changelist" comment="" />
+    <list default="true" id="e9b50632-44c2-4f8e-991b-e01fa1bc1185" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../Projekt2010-master/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Projekt2010-master/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Projekt2010-master/dostawcy.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Projekt2010-master/dostawcy.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Projekt2010-master/magazynp.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Projekt2010-master/magazynp.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Projekt2010-master/magazynw.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Projekt2010-master/magazynw.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Projekt2010-master/slownik.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Projekt2010-master/slownik.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Projekt2010-master/src/projekt2010/Dostawca.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Projekt2010-master/src/projekt2010/MagazynP.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Projekt2010-master/src/projekt2010/MagazynW.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Projekt2010-master/src/projekt2010/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Projekt2010-master/src/projekt2010/Pliki.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Projekt2010-master/src/projekt2010/Slownik.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../egzaminNr1KamilWieczorek/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../egzaminNr1KamilWieczorek/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -128,10 +142,9 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="409" />
-    <option name="y" value="49" />
-    <option name="width" value="837" />
-    <option name="height" value="688" />
+    <option name="x" value="694" />
+    <option name="width" value="682" />
+    <option name="height" value="788" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -139,14 +152,24 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
+      <pane id="PackagesPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="repository" type="58d84e3e:PackageViewProjectNode" />
+              <item name="repository" type="616d4139:PackageViewModuleNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="Scope" />
       <pane id="ProjectPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1556823263383" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Projekt2010-master" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../wzorce" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
