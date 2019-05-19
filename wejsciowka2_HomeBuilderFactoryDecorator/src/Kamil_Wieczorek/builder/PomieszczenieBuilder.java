@@ -1,4 +1,6 @@
-package Kamil_Wieczorek;
+package Kamil_Wieczorek.builder;
+
+import Kamil_Wieczorek.Stolarka;
 
 public abstract class PomieszczenieBuilder {
     protected Pomieszczenie pomieszczenie;

@@ -1,6 +1,8 @@
-package Kamil_Wieczorek;
+package Kamil_Wieczorek.dekorator;
 
-public class DekoratorAntywlamaniowy extends StolarkaDecorator{
+import Kamil_Wieczorek.Stolarka;
+
+public class DekoratorAntywlamaniowy extends StolarkaDecorator {
 
     public DekoratorAntywlamaniowy(Stolarka stolarka){
         super(stolarka);

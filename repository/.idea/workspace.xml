@@ -2,19 +2,33 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e9b50632-44c2-4f8e-991b-e01fa1bc1185" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../Projekt2010-master/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Projekt2010-master/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wejsciowka2_HomeBuilderFactoryDecorator/src/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Projekt2010-master/dostawcy.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Projekt2010-master/dostawcy.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Projekt2010-master/magazynp.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Projekt2010-master/magazynp.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Projekt2010-master/magazynw.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Projekt2010-master/magazynw.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Projekt2010-master/slownik.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Projekt2010-master/slownik.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Projekt2010-master/src/projekt2010/Dostawca.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Projekt2010-master/src/projekt2010/MagazynP.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Projekt2010-master/src/projekt2010/MagazynW.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Projekt2010-master/src/projekt2010/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Projekt2010-master/src/projekt2010/Pliki.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Projekt2010-master/src/projekt2010/Slownik.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../egzaminNr1KamilWieczorek/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../egzaminNr1KamilWieczorek/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wejsciowka2_HomeBuilderFactoryDecorator/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../wejsciowka2_HomeBuilderFactoryDecorator/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wejsciowka2_HomeBuilderFactoryDecorator/out/production/wejsciowka2_HomeBuilderFactoryDecorator/Kamil_Wieczorek/AbstractHouseFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wejsciowka2_HomeBuilderFactoryDecorator/out/production/wejsciowka2_HomeBuilderFactoryDecorator/Kamil_Wieczorek/DekoratorAntywlamaniowy.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wejsciowka2_HomeBuilderFactoryDecorator/out/production/wejsciowka2_HomeBuilderFactoryDecorator/Kamil_Wieczorek/Drzwi.class" beforeDir="false" afterPath="$PROJECT_DIR$/../wejsciowka2_HomeBuilderFactoryDecorator/out/production/wejsciowka2_HomeBuilderFactoryDecorator/Kamil_Wieczorek/Drzwi.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wejsciowka2_HomeBuilderFactoryDecorator/out/production/wejsciowka2_HomeBuilderFactoryDecorator/Kamil_Wieczorek/KuchniaBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wejsciowka2_HomeBuilderFactoryDecorator/out/production/wejsciowka2_HomeBuilderFactoryDecorator/Kamil_Wieczorek/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wejsciowka2_HomeBuilderFactoryDecorator/out/production/wejsciowka2_HomeBuilderFactoryDecorator/Kamil_Wieczorek/Pomieszczenie.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wejsciowka2_HomeBuilderFactoryDecorator/out/production/wejsciowka2_HomeBuilderFactoryDecorator/Kamil_Wieczorek/PomieszczenieBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wejsciowka2_HomeBuilderFactoryDecorator/out/production/wejsciowka2_HomeBuilderFactoryDecorator/Kamil_Wieczorek/StolarkaDecorator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wejsciowka2_HomeBuilderFactoryDecorator/out/production/wejsciowka2_HomeBuilderFactoryDecorator/Kamil_Wieczorek/SzerokoscDrzwi.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wejsciowka2_HomeBuilderFactoryDecorator/out/production/wejsciowka2_HomeBuilderFactoryDecorator/Kamil_Wieczorek/TypPomieszczenia.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wejsciowka2_HomeBuilderFactoryDecorator/src/Kamil_Wieczorek/AbstractHouseFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/../wejsciowka2_HomeBuilderFactoryDecorator/src/Kamil_Wieczorek/factory/AbstractHouseFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wejsciowka2_HomeBuilderFactoryDecorator/src/Kamil_Wieczorek/DekoratorAntywlamaniowy.java" beforeDir="false" afterPath="$PROJECT_DIR$/../wejsciowka2_HomeBuilderFactoryDecorator/src/Kamil_Wieczorek/dekorator/DekoratorAntywlamaniowy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wejsciowka2_HomeBuilderFactoryDecorator/src/Kamil_Wieczorek/Drzwi.java" beforeDir="false" afterPath="$PROJECT_DIR$/../wejsciowka2_HomeBuilderFactoryDecorator/src/Kamil_Wieczorek/Drzwi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wejsciowka2_HomeBuilderFactoryDecorator/src/Kamil_Wieczorek/KuchniaBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/../wejsciowka2_HomeBuilderFactoryDecorator/src/Kamil_Wieczorek/builder/KuchniaBuilder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wejsciowka2_HomeBuilderFactoryDecorator/src/Kamil_Wieczorek/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wejsciowka2_HomeBuilderFactoryDecorator/src/Kamil_Wieczorek/Pomieszczenie.java" beforeDir="false" afterPath="$PROJECT_DIR$/../wejsciowka2_HomeBuilderFactoryDecorator/src/Kamil_Wieczorek/builder/Pomieszczenie.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wejsciowka2_HomeBuilderFactoryDecorator/src/Kamil_Wieczorek/PomieszczenieBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/../wejsciowka2_HomeBuilderFactoryDecorator/src/Kamil_Wieczorek/builder/PomieszczenieBuilder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wejsciowka2_HomeBuilderFactoryDecorator/src/Kamil_Wieczorek/Stolarka.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wejsciowka2_HomeBuilderFactoryDecorator/src/Kamil_Wieczorek/StolarkaDecorator.java" beforeDir="false" afterPath="$PROJECT_DIR$/../wejsciowka2_HomeBuilderFactoryDecorator/src/Kamil_Wieczorek/dekorator/StolarkaDecorator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wejsciowka2_HomeBuilderFactoryDecorator/src/Kamil_Wieczorek/SzerokoscDrzwi.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wejsciowka2_HomeBuilderFactoryDecorator/src/Kamil_Wieczorek/TypPomieszczenia.java" beforeDir="false" afterPath="$PROJECT_DIR$/../wejsciowka2_HomeBuilderFactoryDecorator/src/Kamil_Wieczorek/builder/TypPomieszczenia.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -142,9 +156,9 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="694" />
-    <option name="width" value="682" />
-    <option name="height" value="788" />
+    <option name="x" value="-127" />
+    <option name="width" value="730" />
+    <option name="height" value="735" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -152,6 +166,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="ProjectPane" />
       <pane id="PackagesPane">
         <subPane>
           <expand>
@@ -164,12 +179,11 @@
         </subPane>
       </pane>
       <pane id="Scope" />
-      <pane id="ProjectPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1556823263383" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../wzorce" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../wejsciowka2_HomeBuilderFactoryDecorator" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -221,7 +235,7 @@
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15885022" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1633888" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -230,7 +244,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.36216217" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3617021" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />

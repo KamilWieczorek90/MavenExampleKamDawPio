@@ -1,13 +1,18 @@
-package Kamil_Wieczorek;
+import Kamil_Wieczorek.Drzwi;
+import Kamil_Wieczorek.Okno;
+import Kamil_Wieczorek.Stolarka;
+import Kamil_Wieczorek.builder.KuchniaBuilder;
+import Kamil_Wieczorek.builder.Pomieszczenie;
+import Kamil_Wieczorek.dekorator.DekoratorAntywlamaniowy;
 
 public class Main {
 
     public static void main(String[] args) {
 
         //Test i produkcja dekoratora drzwi
-        Stolarka drzwi1 = new Drzwi(SzerokoscDrzwi.MALE);
-        Stolarka drzwi2 = new Drzwi(SzerokoscDrzwi.SREDNIE);
-        Stolarka drzwi3 = new Drzwi(SzerokoscDrzwi.DUZE);
+        Stolarka drzwi1 = new Drzwi(Drzwi.SzerokoscDrzwi.MALE);
+        Stolarka drzwi2 = new Drzwi(Drzwi.SzerokoscDrzwi.SREDNIE);
+        Stolarka drzwi3 = new Drzwi(Drzwi.SzerokoscDrzwi.DUZE);
 
         drzwi2 = new DekoratorAntywlamaniowy(drzwi2);
         drzwi3 = new DekoratorAntywlamaniowy(drzwi3);

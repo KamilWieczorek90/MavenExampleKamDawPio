@@ -1,4 +1,4 @@
-package Kamil_Wieczorek;
+package Kamil_Wieczorek.factory;
 
 public class AbstractHouseFactory {
 }

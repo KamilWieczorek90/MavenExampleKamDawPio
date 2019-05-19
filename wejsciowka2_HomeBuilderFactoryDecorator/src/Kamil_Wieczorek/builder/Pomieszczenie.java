@@ -1,4 +1,6 @@
-package Kamil_Wieczorek;
+package Kamil_Wieczorek.builder;
+
+import Kamil_Wieczorek.Stolarka;
 
 import java.util.ArrayList;
 import java.util.List;

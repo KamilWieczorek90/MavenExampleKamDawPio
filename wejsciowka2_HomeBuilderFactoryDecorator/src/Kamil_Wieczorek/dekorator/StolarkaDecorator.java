@@ -1,4 +1,6 @@
-package Kamil_Wieczorek;
+package Kamil_Wieczorek.dekorator;
+
+import Kamil_Wieczorek.Stolarka;
 
 public abstract class StolarkaDecorator extends Stolarka {
     protected Stolarka stolarka;

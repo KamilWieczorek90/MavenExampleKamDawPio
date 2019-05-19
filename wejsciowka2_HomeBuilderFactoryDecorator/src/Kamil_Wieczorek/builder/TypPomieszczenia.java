@@ -1,4 +1,4 @@
-package Kamil_Wieczorek;
+package Kamil_Wieczorek.builder;
 
 public enum TypPomieszczenia {
     KUCHNIA(3000),
